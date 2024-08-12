@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #f1f1f1;
+}
+p{
+  color: red;
+  font-size: 14px;
+}
+
